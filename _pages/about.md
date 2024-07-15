@@ -23,4 +23,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-im whale
+I am an incoming Master's student in the Part III course at [Cambridge University](https://www.cam.ac.uk/) studying Mathematical Statistics. Upon completion, I will be doing a PhD in Statistics at [Cornell University](https://www.cornell.edu/). 
+
+Before Cambridge, I was an undergraduate at the [University of California Berkeley](https://www.berkeley.edu/) where I studied Applied Mathematics and Computer Science. I was fortunate to be advised by [Adrián González](https://statistics.berkeley.edu/people/adrian-gonzalez-casanova), working on problems in population genetics with a game theoretic perspective. 
+
+My current research interests lie broadly in probability theory, stochastic calculus, and high-dimensional statistics. 
