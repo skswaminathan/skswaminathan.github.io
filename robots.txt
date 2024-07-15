@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://skswaminathan.github.io/skswaminathan/sitemap.xml
