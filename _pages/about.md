@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-      <p> sks73(at)cam(dot)ac(dot)uk
+      <p> sks282(at)cornell(dot)edu
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
@@ -26,9 +26,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-For the 2024-2025 academic year, I will be a Master's student in the Part III course at the [University of Cambridge](https://www.cam.ac.uk/) studying Mathematical Statistics. Upon completion, I will be doing a PhD in Statistics at [Cornell University](https://www.cornell.edu/). 
+I am a first-year PhD student in Statistics at Cornell University. Previously, I graduated from UC Berkeley in 2024 with degrees in Applied Mathematics and Computer Science and from University of Cambridge in 2025 with a MASt in Mathematical Statistics. 
+
+<!-- For the 2024-2025 academic year, I will be a Master's student in the Part III course at the [University of Cambridge](https://www.cam.ac.uk/) studying Mathematical Statistics. Upon completion, I will be doing a PhD in Statistics at [Cornell University](https://www.cornell.edu/). 
 
 Before Cambridge, I was an undergraduate at the [University of California Berkeley](https://www.berkeley.edu/) where I studied Applied Mathematics and Computer Science. I was fortunate to be advised by [Adrián González](https://statistics.berkeley.edu/people/adrian-gonzalez-casanova), working on problems in population genetics with a game theoretic perspective. 
 
-My current research interests lie broadly in probability theory, estimation, and high-dimensional statistics. 
+My current research interests lie broadly in probability theory, estimation, and high-dimensional statistics.  -->
 
