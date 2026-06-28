@@ -2,35 +2,29 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: true
   more_info: >
-      <p> sks282(at)cornell(dot)edu
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
-
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+    <p>sks282(at)cornell(dot)edu</p>
 ---
 
+I am a PhD student in Statistics at Cornell University. I am interested in statistical learning and scalable ensemble methods for structured data.
 
+Previously, I graduated from UC Berkeley in 2024 with degrees in Applied Mathematics and Computer Science and from the University of Cambridge in 2025 with a MASt in Mathematical Statistics.
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<section id="teaching" class="page-section" markdown="1">
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<h2>Teaching</h2>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+<h3>UC Berkeley</h3>
 
-I am a first-year PhD student in Statistics at Cornell University. Previously, I graduated from UC Berkeley in 2024 with degrees in Applied Mathematics and Computer Science and from University of Cambridge in 2025 with a MASt in Mathematical Statistics. 
+Head TA for [CS 70](https://www.eecs70.org/). My [mini-lecture notes](/assets/pdf/cs70_lecs.pdf) (may contain typos or outdated material).
 
-<!-- For the 2024-2025 academic year, I will be a Master's student in the Part III course at the [University of Cambridge](https://www.cam.ac.uk/) studying Mathematical Statistics. Upon completion, I will be doing a PhD in Statistics at [Cornell University](https://www.cornell.edu/). 
+<h3>Cornell</h3>
 
-Before Cambridge, I was an undergraduate at the [University of California Berkeley](https://www.berkeley.edu/) where I studied Applied Mathematics and Computer Science. I was fortunate to be advised by [Adrián González](https://statistics.berkeley.edu/people/adrian-gonzalez-casanova), working on problems in population genetics with a game theoretic perspective. 
+<!-- Details forthcoming. -->
 
-My current research interests lie broadly in probability theory, estimation, and high-dimensional statistics.  -->
-
+</section>
