@@ -14,9 +14,6 @@
       {% endif %}
 
       <div class="nav-links">
-        <a class="nav-link{% if page.permalink == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">About</a>
-        <a class="nav-link" href="{{ '/#teaching' | relative_url }}">Teaching</a>
-
         {% if site.enable_darkmode %}
           <button id="light-toggle" class="theme-toggle" type="button" aria-label="Change theme" title="Change theme">
             <span class="theme-toggle-mark" aria-hidden="true"></span>

@@ -224,6 +224,51 @@ progress::-moz-progress-bar {
   line-height: 1.35;
 }
 
+.teaching-intro {
+  margin: 0.6rem 0 0;
+  color: var(--global-text-color-light);
+  font-size: 1.05rem;
+}
+
+.teaching-list {
+  margin-top: 1rem;
+  border-top: 1px solid var(--global-divider-color);
+}
+
+.teaching-item {
+  padding: 1.15rem 0;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+.page-section .teaching-course {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.teaching-course a {
+  color: var(--global-text-color);
+}
+
+.teaching-course a:hover {
+  color: var(--global-theme-color);
+}
+
+.teaching-meta {
+  margin: 0.2rem 0 0;
+  color: var(--global-text-color-light);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.82rem;
+}
+
+.teaching-awards {
+  margin: 0.4rem 0 0;
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
 .profile {
   width: 100%;
   margin-bottom: 1rem;
